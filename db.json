@@ -1,0 +1,304 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "Lorem ipsum dolor sit amet.",
+      "release": "01-06-2024",
+      "studio": "Original",
+      "cover": [
+        "https://dummyimage.com/1280x720/fff/aaa",
+        "https://dummyimage.com/1280x720/fff/aaa"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Lorem ipsum dolor sit amet.",
+      "release": "01-06-2024",
+      "studio": "Original",
+      "cover": [
+        "https://dummyimage.com/1280x720/fff/aaa",
+        "https://dummyimage.com/1280x720/fff/aaa"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Lorem ipsum dolor sit amet.",
+      "release": "01-06-2024",
+      "studio": "Original",
+      "cover": [
+        "https://dummyimage.com/1280x720/fff/aaa",
+        "https://dummyimage.com/1280x720/fff/aaa"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Lorem ipsum dolor sit amet.",
+      "release": "01-06-2024",
+      "studio": "Original",
+      "cover": [
+        "https://dummyimage.com/1280x720/fff/aaa",
+        "https://dummyimage.com/1280x720/fff/aaa"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Lorem ipsum dolor sit amet.",
+      "release": "01-06-2024",
+      "studio": "Original",
+      "cover": [
+        "https://dummyimage.com/1280x720/fff/aaa",
+        "https://dummyimage.com/1280x720/fff/aaa"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Lorem ipsum dolor sit amet.",
+      "release": "01-06-2024",
+      "studio": "Original",
+      "cover": [
+        "https://dummyimage.com/1280x720/fff/aaa",
+        "https://dummyimage.com/1280x720/fff/aaa"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Lorem ipsum dolor sit amet.",
+      "release": "01-06-2024",
+      "studio": "Original",
+      "cover": [
+        "https://dummyimage.com/1280x720/fff/aaa",
+        "https://dummyimage.com/1280x720/fff/aaa"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Lorem ipsum dolor sit amet.",
+      "release": "01-06-2024",
+      "studio": "Original",
+      "cover": [
+        "https://dummyimage.com/1280x720/fff/aaa",
+        "https://dummyimage.com/1280x720/fff/aaa"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Lorem ipsum dolor sit amet.",
+      "release": "01-06-2024",
+      "studio": "Original",
+      "cover": [
+        "https://dummyimage.com/1280x720/fff/aaa",
+        "https://dummyimage.com/1280x720/fff/aaa"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Lorem ipsum dolor sit amet.",
+      "release": "01-06-2024",
+      "studio": "Original",
+      "cover": [
+        "https://dummyimage.com/1280x720/fff/aaa",
+        "https://dummyimage.com/1280x720/fff/aaa"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Lorem ipsum dolor sit amet.",
+      "release": "01-06-2024",
+      "studio": "Original",
+      "cover": [
+        "https://dummyimage.com/1280x720/fff/aaa",
+        "https://dummyimage.com/1280x720/fff/aaa"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Lorem ipsum dolor sit amet.",
+      "release": "01-06-2024",
+      "studio": "Original",
+      "cover": [
+        "https://dummyimage.com/1280x720/fff/aaa",
+        "https://dummyimage.com/1280x720/fff/aaa"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Lorem ipsum dolor sit amet.",
+      "release": "01-06-2024",
+      "studio": "Original",
+      "cover": [
+        "https://dummyimage.com/1280x720/fff/aaa",
+        "https://dummyimage.com/1280x720/fff/aaa"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Lorem ipsum dolor sit amet.",
+      "release": "01-06-2024",
+      "studio": "Original",
+      "cover": [
+        "https://dummyimage.com/1280x720/fff/aaa",
+        "https://dummyimage.com/1280x720/fff/aaa"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Lorem ipsum dolor sit amet.",
+      "release": "01-06-2024",
+      "studio": "Original",
+      "cover": [
+        "https://dummyimage.com/1280x720/fff/aaa",
+        "https://dummyimage.com/1280x720/fff/aaa"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Lorem ipsum dolor sit amet.",
+      "release": "01-06-2024",
+      "studio": "Original",
+      "cover": [
+        "https://dummyimage.com/1280x720/fff/aaa",
+        "https://dummyimage.com/1280x720/fff/aaa"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Lorem ipsum dolor sit amet.",
+      "release": "01-06-2024",
+      "studio": "Original",
+      "cover": [
+        "https://dummyimage.com/1280x720/fff/aaa",
+        "https://dummyimage.com/1280x720/fff/aaa"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Lorem ipsum dolor sit amet.",
+      "release": "01-06-2024",
+      "studio": "Original",
+      "cover": [
+        "https://dummyimage.com/1280x720/fff/aaa",
+        "https://dummyimage.com/1280x720/fff/aaa"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Lorem ipsum dolor sit amet.",
+      "release": "01-06-2024",
+      "studio": "Original",
+      "cover": [
+        "https://dummyimage.com/1280x720/fff/aaa",
+        "https://dummyimage.com/1280x720/fff/aaa"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Lorem ipsum dolor sit amet.",
+      "release": "01-06-2024",
+      "studio": "Original",
+      "cover": [
+        "https://dummyimage.com/1280x720/fff/aaa",
+        "https://dummyimage.com/1280x720/fff/aaa"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Lorem ipsum dolor sit amet.",
+      "release": "01-06-2024",
+      "studio": "Original",
+      "cover": [
+        "https://dummyimage.com/1280x720/fff/aaa",
+        "https://dummyimage.com/1280x720/fff/aaa"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Lorem ipsum dolor sit amet.",
+      "release": "01-06-2024",
+      "studio": "Original",
+      "cover": [
+        "https://dummyimage.com/1280x720/fff/aaa",
+        "https://dummyimage.com/1280x720/fff/aaa"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Lorem ipsum dolor sit amet.",
+      "release": "01-06-2024",
+      "studio": "Original",
+      "cover": [
+        "https://dummyimage.com/1280x720/fff/aaa",
+        "https://dummyimage.com/1280x720/fff/aaa"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Lorem ipsum dolor sit amet.",
+      "release": "01-06-2024",
+      "studio": "Original",
+      "cover": [
+        "https://dummyimage.com/1280x720/fff/aaa",
+        "https://dummyimage.com/1280x720/fff/aaa"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Lorem ipsum dolor sit amet.",
+      "release": "01-06-2024",
+      "studio": "Original",
+      "cover": [
+        "https://dummyimage.com/1280x720/fff/aaa",
+        "https://dummyimage.com/1280x720/fff/aaa"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Lorem ipsum dolor sit amet.",
+      "release": "01-06-2024",
+      "studio": "Original",
+      "cover": [
+        "https://dummyimage.com/1280x720/fff/aaa",
+        "https://dummyimage.com/1280x720/fff/aaa"
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Lorem ipsum dolor sit amet.",
+      "release": "01-06-2024",
+      "studio": "Original",
+      "cover": [
+        "https://dummyimage.com/1280x720/fff/aaa",
+        "https://dummyimage.com/1280x720/fff/aaa"
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Lorem ipsum dolor sit amet.",
+      "release": "01-06-2024",
+      "studio": "Original",
+      "cover": [
+        "https://dummyimage.com/1280x720/fff/aaa",
+        "https://dummyimage.com/1280x720/fff/aaa"
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Lorem ipsum dolor sit amet.",
+      "release": "01-06-2024",
+      "studio": "Original",
+      "cover": [
+        "https://dummyimage.com/1280x720/fff/aaa",
+        "https://dummyimage.com/1280x720/fff/aaa"
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Lorem ipsum dolor sit amet.",
+      "release": "01-06-2024",
+      "studio": "Original",
+      "cover": [
+        "https://dummyimage.com/1280x720/fff/aaa",
+        "https://dummyimage.com/1280x720/fff/aaa"
+      ]
+    }
+  ]
+}
