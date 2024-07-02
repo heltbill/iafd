@@ -329,61 +329,6 @@
         "https://dummyimage.com/190x269/181818/fff",
         "https://dummyimage.com/190x269/181818/fff"
       ]
-    },
-    {
-      "id": 31,
-      "title": "Lorem ipsum dolor sit amet.",
-      "release": "01-06-2024",
-      "studio": "Original",
-      "resolution": "4K UHD",
-      "cover": [
-        "https://dummyimage.com/190x269/181818/fff",
-        "https://dummyimage.com/190x269/181818/fff"
-      ]
-    },
-    {
-      "id": 32,
-      "title": "Lorem ipsum dolor sit amet.",
-      "release": "01-06-2024",
-      "studio": "Original",
-      "resolution": "4K UHD",
-      "cover": [
-        "https://dummyimage.com/190x269/181818/fff",
-        "https://dummyimage.com/190x269/181818/fff"
-      ]
-    },
-    {
-      "id": 33,
-      "title": "Lorem ipsum dolor sit amet.",
-      "release": "01-06-2024",
-      "studio": "Original",
-      "resolution": "4K UHD",
-      "cover": [
-        "https://dummyimage.com/190x269/181818/fff",
-        "https://dummyimage.com/190x269/181818/fff"
-      ]
-    },
-    {
-      "id": 34,
-      "title": "Lorem ipsum dolor sit amet.",
-      "release": "01-06-2024",
-      "studio": "Original",
-      "resolution": "4K UHD",
-      "cover": [
-        "https://dummyimage.com/190x269/181818/fff",
-        "https://dummyimage.com/190x269/181818/fff"
-      ]
-    },
-    {
-      "id": 35,
-      "title": "Lorem ipsum dolor sit amet.",
-      "release": "01-06-2024",
-      "studio": "Original",
-      "resolution": "4K UHD",
-      "cover": [
-        "https://dummyimage.com/190x269/181818/fff",
-        "https://dummyimage.com/190x269/181818/fff"
-      ]
     }
   ]
 }
